@@ -147,4 +147,4 @@ if __name__ == "__main__":
     print("\nComparison")
     print(result.head())
     password = "YOUR_PASSWORD"
-    
+    python solution.py
